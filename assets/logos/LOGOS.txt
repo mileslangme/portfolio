@@ -1,0 +1,7 @@
+Drop square app icons here (PNG or WebP, ~256-512px). Filenames must match index.html:
+
+  waddlewallet.png
+  lovebent.png
+  praise.png
+
+If you use .webp, either rename exports to .png or update the src paths in index.html.
